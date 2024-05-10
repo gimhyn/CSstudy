@@ -49,5 +49,31 @@
     2. 컴퓨터 시스템 구조
         2-(1) 컴퓨터 시스템 구조
         2-(2) I/O의 수행과 이해
+        2-(3) 동기식 입출력과 비동기식 입출력
+        2-(4) DMA(direct memory access)
+        2-(5) 서로 다른 입출력 명령어
+        2-(6) 저장 장치 계층 구조
+        2-(7) 프로그램의 실행
+    3. 프로세스
+        3-(1) 프로세스의 개념
+        3-(2) 프로세스의 상태
+        3-(3) Process Control Block
+        3-(4) Context Switch
+        3-(5) 스케줄러
+    ______________________________
+        3-(6) Thread
+    4. Process Management
+        4-(1) 프로세스 생성
+        4-(2) 프로세스 종료
+        4-(3) 프로세스와 관련된 시스템 콜
+        4-(4) 프로세스 간 협력
+    5. CPU Scheduling
+        5-(1) CPU and I/O Bursts iin Program Execution
+        5-(2) CPU Scheduler & Dispatcher
+        5-(3) Scheduling Algorithm
+    6. Process Synchronization
+        6-(1) 데이터의 접근
+        6-(2) Race Condition
+        6-(3) Process Synchronization
         
 
