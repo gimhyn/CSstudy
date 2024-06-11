@@ -11,11 +11,16 @@
 | 24/04/24 | 데이터 베이스(3)            |
 | 24/05/01 | 운영 체제(1)                |
 | 24/05/08 | 운영 체제(2)                |
+
 ## 강의 출처
-|이산수학 |Youtube: 동빈나 채널 '이산수학 강좌' /b "https://youtube.com/playlist?list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n&si=g8tJvUkBNYarqpb6"|
-|컴퓨터구조|Youtube: Dr. Chang의파운데이션 '컴퓨터 시스템 구조' /b "https://youtube.com/playlist?list=PLc8fQ-m7b1hCHTT7VH2oo0Ng7Et096dYc&si=3ao-5baaMKSixabv"|
-|데이터베이스|KOCW 한양대 백현미 교수님 '데이터베이스의 원리와 응용' /b "http://www.kocw.net/home/enrolment/enrolmentInfo.do?cid=9c591659f017851e"|
-|운영 체제|KOCW 이화여대 반효경 교수님 '운영체제' /b "http://www.kocw.net/home/cview.do?lid=5cf910642999f4a5"|
+| 과목          | 자료                           |
+|---------------|-------------------------------|
+| 이산수학      | [Youtube: 동빈나 채널 '이산수학 강좌'](https://youtube.com/playlist?list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n&si=g8tJvUkBNYarqpb6) |
+| 컴퓨터구조    | [Youtube: Dr. Chang의파운데이션 '컴퓨터 시스템 구조'](https://youtube.com/playlist?list=PLc8fQ-m7b1hCHTT7VH2oo0Ng7Et096dYc&si=3ao-5baaMKSixabv) |
+| 데이터베이스  | [KOCW 한양대 백현미 교수님 '데이터베이스의 원리와 응용'](http://www.kocw.net/home/enrolment/enrolmentInfo.do?cid=9c591659f017851e) |
+| 운영 체제     | [KOCW 이화여대 반효경 교수님 '운영체제'](http://www.kocw.net/home/cview.do?lid=5cf910642999f4a5) |
+
+
 
 ## 이산 수학
     1. 이산수학
