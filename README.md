@@ -11,6 +11,8 @@
 | 24/04/24 | 데이터 베이스(3)            |
 | 24/05/01 | 운영 체제(1)                |
 | 24/05/08 | 운영 체제(2)                |
+|~24/06/19 | 운영 체제(3)~(6)            |
+| 24/07/03 | 네트워크(1)                 |
 
 ## 강의 출처
 | 과목          | 자료                           |
@@ -19,6 +21,7 @@
 | 컴퓨터구조    | [Youtube: Dr. Chang의파운데이션 '컴퓨터 시스템 구조'](https://youtube.com/playlist?list=PLc8fQ-m7b1hCHTT7VH2oo0Ng7Et096dYc&si=3ao-5baaMKSixabv) |
 | 데이터베이스  | [KOCW 한양대 백현미 교수님 '데이터베이스의 원리와 응용'](http://www.kocw.net/home/enrolment/enrolmentInfo.do?cid=9c591659f017851e) |
 | 운영 체제     | [KOCW 이화여대 반효경 교수님 '운영체제'](http://www.kocw.net/home/cview.do?lid=5cf910642999f4a5) |
+| 네트워크      | [Youtube: 따라하면서 배우는 IT '네트워크 기초(개정판)'](https://youtube.com/playlist?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&si=K267k6AmCf7cjRml) |
 
 
 
