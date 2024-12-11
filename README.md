@@ -1,6 +1,6 @@
 # CSstudy
 🖊️ CS공부하기 🖊️ <br/>
-**SSAFY 11기 CS공부 :potato:감자스터디:potato: 스터디 기록** <br/>
+SSAFY 11기 CS공부 스터디 모임 - **:potato:감자스터디:potato:** 학습 내용 기록을 위한 레포<br/>
 이후 개인 공부는 [velog](https://velog.io/@gimhyn/series) 로 이전
 
 | **Date** | **Subject**                |
