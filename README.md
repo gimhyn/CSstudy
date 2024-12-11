@@ -1,5 +1,7 @@
 # CSstudy
-🖊️ CS공부하기 🖊️
+🖊️ CS공부하기 🖊️ <br/>
+**SSAFY 11기 CS공부 :potato:감자스터디:potato: 스터디 기록** <br/>
+이후 개인 공부는 [velog](https://velog.io/@gimhyn/series) 로 이전
 
 | **Date** | **Subject**                |
 |----------|----------------------------|
@@ -13,8 +15,7 @@
 | 24/05/08 | 운영 체제(2)                |
 |~24/06/19 | 운영 체제(3)~(6)            |
 | 24/07/03 | 네트워크(1)                 |
-** 이후 공부는 velog로 이전**
-[네트워크](https://velog.io/@gimhyn/series/CS-Network)
+
 
 ## 강의 출처
 | 과목          | 자료                           |
